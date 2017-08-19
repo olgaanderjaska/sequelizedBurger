@@ -1,0 +1,38 @@
+#body {
+    background-color: #ffbf00;
+}
+
+.header img {
+    width: 20%;
+}
+
+.header h1 {
+    color: red;
+}
+
+#burger_name {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 30px 20px;
+}
+
+#devour_burg {
+    overflow: hidden;
+}
+
+#devour_burg div {
+    float: left;
+    background-color: white;
+    border: 1px solid grey;
+    /*overflow: overlay;*/
+    margin: 0px 0px 10px;
+    width: 60%;
+    height: 40px;
+    padding-top: 10px;
+}
+
+.eated-burger div {
+    border: 1px solid grey;
+    background-color: white;
+}
